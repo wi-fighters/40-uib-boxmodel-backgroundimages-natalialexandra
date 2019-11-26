@@ -5,6 +5,8 @@ body {
 
 header {
     height: 30%;
+    background-image: url(assets/background.jpg);
+    background-size: contain;
 }
 
 h1 {
